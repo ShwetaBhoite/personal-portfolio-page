@@ -31,14 +31,14 @@ body {
   }
 
 
-.profileBody {
-    
+  .profileBody {
     display: inline-block;
-    background-color: #ffffff;
-    margin-left: 2em;
-    margin-right: 1em;
-
-}
+    background-color: white;
+    margin-top: 6px;
+    margin-left: 55px;
+    width: 75%;
+    height: 590px;
+  }
 
 
 #name h1 {
